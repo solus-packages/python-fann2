@@ -1,8 +1,8 @@
 name       : python-fann2
-version    : 1.0.7
-release    : 1
+version    : 1.1.2
+release    : 2
 source     :
-    - https://files.pythonhosted.org/packages/a9/a3/af368a683a04850aa1bf2e097f17781eb26e7e7c269ddcecfcec5f2e05a3/fann2-1.0.7.tar.gz : 53eca74a2c0a0dfcf2d8e449cf487603886dadeda343adab4c0f1b811734fb9f
+    - https://files.pythonhosted.org/packages/source/f/fann2/fann2-1.1.2.tar.gz : cdca0a65ad48e08320672affe38c3dd4ea15e27821e5e1db9fa2b34299bdd41e
 license    : Apache-2.0
 component  : programming.python
 summary    : Python bindings for Fast Artificial Neural Networks 2.2.0
