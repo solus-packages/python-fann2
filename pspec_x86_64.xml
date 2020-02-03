@@ -2,15 +2,15 @@
     <Source>
         <Name>python-fann2</Name>
         <Packager>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.python</PartOf>
         <Summary xml:lang="en">Python bindings for Fast Artificial Neural Networks 2.2.0</Summary>
         <Description xml:lang="en">This is a python binding for Fast Artificial Neural Network Library (FANN &gt;= 2.2.0) that implements multi-layer artificial neural networks with support for both fully-connected and sparsely-connected networks. It includes a framework for easily handling training data sets. It is easy to use, versatile, well- documented, and fast.
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>python-fann2</Name>
@@ -19,28 +19,28 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2-1.1.2-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2-1.1.2-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2-1.1.2-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2-1.1.2-py3.6.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2-1.1.2-py3.6.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2/__pycache__/libfann.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2/_libfann.cpython-36m-x86_64-linux-gnu.so</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2/fann2.i</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2/fann2_wrap.cxx</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2/fann_cpp_subclass.h</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/fann2/libfann.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2-1.1.2-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2-1.1.2-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2-1.1.2-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2-1.1.2-py3.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2-1.1.2-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2/__pycache__/libfann.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2/_libfann.cpython-37m-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2/fann2.i</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2/fann2_wrap.cxx</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2/fann_cpp_subclass.h</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/fann2/libfann.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2018-12-03</Date>
+        <Update release="3">
+            <Date>2020-01-25</Date>
             <Version>1.1.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
