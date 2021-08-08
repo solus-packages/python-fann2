@@ -1,6 +1,6 @@
 name       : python-fann2
 version    : 1.1.2
-release    : 3
+release    : 4
 source     :
     - https://files.pythonhosted.org/packages/source/f/fann2/fann2-1.1.2.tar.gz : cdca0a65ad48e08320672affe38c3dd4ea15e27821e5e1db9fa2b34299bdd41e
 license    : Apache-2.0
